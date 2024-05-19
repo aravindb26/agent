@@ -1,4 +1,4 @@
-FROM alpine:3.17
+FROM alpine:3.18.6
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
 # Define NGINX versions for NGINX Plus and NGINX Plus modules
